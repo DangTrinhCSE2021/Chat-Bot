@@ -1,5 +1,5 @@
 Chainlit ChatBot
-Group work
+Group work	
 Huỳnh Đăng Trình - 10421064
 Nguyễn Hoàng Nguyên - 10421096
 This chat bot is created by using Chainlit. Create your .env file and fill in the API key to run
